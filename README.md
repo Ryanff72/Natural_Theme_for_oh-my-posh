@@ -1,4 +1,4 @@
-# Natural_Theme_for_oh-my-posh
+# Natural_Theme_oh-my-posh
 A personal terminal theme that works with oh-my-posh.
 ![image](https://github.com/user-attachments/assets/e0b39ffe-b22e-4666-9819-6228731a5406)
 ## How to Use?
