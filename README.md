@@ -6,6 +6,6 @@ A personal terminal theme that works with oh-my-posh.
 If not installed already, you need to download [oh-my-posh](https://ohmyposh.dev). It is a wonderful application that makes customizing your terminal fun and ez!
 ### Add the following line to your .bashrc:
 eval "$(oh-my-posh init bash --config 'path/to/natural.omp.json')"
-#### Or on Windows:
+#### Or on Windows add to your profile:
 oh-my-posh.exe init pwsh --config "C:\path\to\natural.omp.json" | Invoke-Expression
 ### Enjoy!
